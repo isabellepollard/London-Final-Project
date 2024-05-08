@@ -22,6 +22,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 st.set_page_config(page_title="Pubs in London", page_icon="🍺", layout="wide", initial_sidebar_state="expanded")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
